@@ -45,6 +45,8 @@
 - 🎨 **Sleek UI/UX**: Responsive interface with dark/light modes, Markdown formatting, syntax-highlighted code blocks, and copy-to-clipboard.
 - 🧠 **Context & Memory**: Persistent conversation history and chat thread management.
 - 🔌 **Tool Calling & Vector Store Ready**: Easily extendable with custom APIs, web search tools, and vector embeddings (Pinecone, Chroma, Qdrant).
+- * 🛡️ **Secure & Scalable Architecture**: Built with authentication, modular components, and a scalable backend architecture for reliable and secure AI-powered conversations.
+
 
 ---
 
