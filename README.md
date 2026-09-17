@@ -1,6 +1,6 @@
 # 🤖 AI Chatbot Using Devlop RAG Model
 
-> An intelligent, extensible, and high-performance conversational AI chatbot built with modern web technologies, LLM integrations, and Retrieval-Augmented Generation (RAG) for querying custom documents.
+> An extrmely intelligent, extensible, and high-performance conversational AI chatbot built with modern web technologies, LLM integrations, and Retrieval-Augmented Generation (RAG) for querying custom documents.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
@@ -59,7 +59,7 @@
 - **⚙️ Custom System Prompts & Personas**: Configure bot personalities, temperature, max tokens, and system instructions on the fly.
 - **🔒 Privacy & Security**: Enterprise-ready API key handling, secure environment storage, and rate limiting.
 - **📱 Responsive & Accessible**: Fully optimized for desktop, tablet, and mobile browsers with dark mode support.
-
+This include the surface and user interface between the edge and protection .
 ---
 
 ## 🔍 Retrieval-Augmented Generation (RAG)
