@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot
+# 🤖 AI Chatbot Using Devlop RAG Model
 
 > An intelligent, extensible, and high-performance conversational AI chatbot built with modern web technologies, LLM integrations, and Retrieval-Augmented Generation (RAG) for querying custom documents.
 
